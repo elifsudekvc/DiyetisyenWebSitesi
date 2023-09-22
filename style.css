@@ -1,0 +1,33 @@
+
+
+#navbar_id{
+
+background-color:#FEFAE0;
+position: sticky;
+top: 0;
+z-index: 1;
+}
+
+.top-line{
+    background-color:#99A98F;
+    height: 40px;
+    align-content: center;
+}
+
+.logo{
+    width: 60px;
+    height: 60px;
+}
+
+.anasayfa_baslangıcı{
+    height: 87vh;
+    background-image: url(resimler/sidebar.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: -1;
+}
+
